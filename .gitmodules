@@ -1,0 +1,3 @@
+[submodule "reclaim_your_health/.obsidian"]
+	path = reclaim_your_health/.obsidian
+	url = git@github.com:atticuszeller/obsidian-config.git
